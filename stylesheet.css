@@ -1,0 +1,6 @@
+.jumbotron {
+    background-image: url(repas.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+}
